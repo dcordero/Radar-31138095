@@ -12,8 +12,8 @@ In this repo you can find two projects with exactly the same piece of code. One 
 
 In iOS, the views are added from right to left to the stack view, but in tvOS, on the other hand, they are added from left to right.
 
-![](preview-iOS.gif)
-![](preview-tvOS.gif)
+![](preview-iOS.png)
+![](preview-tvOS.png)
 
 # Expected
 The views are added from right to left in both operating systems, as documented
